@@ -1,3 +1,7 @@
+This is a fork of opennested-combat. The real authors, i.e. Hannah Horng, did all the work, but they didn't yet have released versions. Therefore in order to use the library in a reproducble manner (so scientists cen get the same results across time as they work). I am creating a frozen version of the main branch, frozen on 16/08/2023.
+
+
+
 # opnested-combat
 This is the repository for OPNested, OPNested+GMM, and OPNested-ComBat from the manuscript entitled ["Improved generalized ComBat methods for harmonization of radiomic features" by Horng et al.](https://rdcu.be/cZf2n), published at Nature Scientific Reports. These methods are updates to the algorithms previously published at [generalized-combat](https://github.com/hannah-horng/generalized-combat). All functions needed to implement the methods are in the OPNestedComBat.py file.
 
